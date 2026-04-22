@@ -1,10 +1,10 @@
-﻿################################################################################
-# Данный GITIGNORE-файл был автоматически создан Microsoft(R) Visual Studio.
-################################################################################
-
-/.vs
-/.vs/Репозиторий.slnx/v18/.suo
-/.vs/Репозиторий.slnx/v18/Browse.VC.db
-/.vs/Репозиторий.slnx/v18/Browse.VC.db-shm
-/.vs/Репозиторий.slnx/v18/Browse.VC.db-wal
-/Репозиторий.vcxproj.filters
+﻿.vs/
+*.user
+*.suo
+x64/
+Debug/
+Release/
+*.db
+*.log
+*.vcxproj.filters
+*.vcxproj
