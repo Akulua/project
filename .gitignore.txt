@@ -1,0 +1,10 @@
+.vs/
+*.user
+*.suo
+x64/
+Debug/
+Release/
+*.db
+*.log
+*.vcxproj.filters
+*.vcxproj
