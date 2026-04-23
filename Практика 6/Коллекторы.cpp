@@ -10,7 +10,7 @@ int main() {
 	std::cin >> surname >> name >> patronymic;
 	std::cout << " Введите задолженность: ";
 	std::cin >> debt;
-	int bankAccount;
+	int bankAccount=0;
 
 	if (debt <= -1) {
 		debt = -debt;
