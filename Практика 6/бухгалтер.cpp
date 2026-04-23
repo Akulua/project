@@ -3,7 +3,7 @@
 int main() {
 	setlocale(LC_ALL, "ru_RU.UTF-8");
 
-	 number;
+	long long number;
 	std::cout << " Введите ваше число: ";
 	std::cin >> number;
 	int count = 0;
